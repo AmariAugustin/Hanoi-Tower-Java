@@ -70,8 +70,6 @@ Le projet inclut des diagrammes UML détaillés pour :
 - Les relations entre les classes (héritage, composition, associations).
 - Les interactions principales entre les objets.
 
-Les diagrammes se trouvent dans le dossier `/uml` du projet.
-
 ---
 
 ## Aperçus
