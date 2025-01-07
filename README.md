@@ -76,14 +76,7 @@ Les diagrammes se trouvent dans le dossier `/uml` du projet.
 
 ## Aperçus
 
-### Fenêtre de paramétrage
-_(Ajoutez ici une capture d’écran illustrant la fenêtre où le nombre de disques est sélectionné.)_
-
-### Jeu en cours
-_(Ajoutez ici une capture d’écran montrant l’interface principale avec les disques et les tours.)_
-
-### Tableau des scores
-_(Ajoutez ici une capture d’écran du tableau des scores accessible via l’onglet "Info".)_
+Tous les aperçus sont dispo dans le rapport.
 
 ---
 
@@ -91,4 +84,4 @@ _(Ajoutez ici une capture d’écran du tableau des scores accessible via l’on
 
 - **Amari Augustin**  
   Année académique : 2023-2024  
-  Université : _(Ajoutez ici le nom de votre université si nécessaire.)_
+  Université : _Université d'évry val d'essonne Paris-Saclay_
